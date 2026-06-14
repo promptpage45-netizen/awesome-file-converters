@@ -60,6 +60,7 @@
 - **Squoosh** - Google's image optimizer
 - **TinyPNG** - PNG/JPEG compression
 - **Convertio** - Multi-format
+- **FreePNGConvert** - Convert WebP, GIF, JPG, DDS to PNG. 100% browser-based, no upload.
 
 ### Desktop
 
