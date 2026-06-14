@@ -57,6 +57,7 @@
 
 ### Online
 
+- **[FreePNGConvert](https://freepngconvert.com)** - Convert WebP to PNG in your browser. 100% client-side, no upload, unlimited conversions.
 - **Squoosh** - Google's image optimizer
 - **TinyPNG** - PNG/JPEG compression
 - **Convertio** - Multi-format
