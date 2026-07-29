@@ -60,6 +60,7 @@
 - **Squoosh** - Google's image optimizer
 - **TinyPNG** - PNG/JPEG compression
 - **Convertio** - Multi-format
+- **FreePNGConvert** - [WebP to PNG converter](https://freepngconvert.com) (browser-based, no upload)
 
 ### Desktop
 
