@@ -60,6 +60,7 @@
 - **Squoosh** - Google's image optimizer
 - **TinyPNG** - PNG/JPEG compression
 - **Convertio** - Multi-format
+- **[WebP Convert to JPG](https://www.webpconverttojpg.com/)** - WebP/HEIC/AVIF/PNG to JPG in batch; 100% client-side, no upload
 
 ### Desktop
 
